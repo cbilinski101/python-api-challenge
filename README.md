@@ -1,5 +1,6 @@
 # python-api-challenge
-<!-- I accessed help through Xpert Learning Assiant, and various classmates using Slack.
+
+I accessed help through Xpert Learning Assiant, and various classmates using Slack.
 
 Included in this repoistory: "READEME, WeatherPy folder containing: 
 
