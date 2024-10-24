@@ -10,6 +10,8 @@ located within 10,000 metres of your coordinates
 Add the hotel name and the country as additional information in the hover message for 
 each city in the map. 
 
+Updated scatterplots to show gridlines.
+
 Updated the line regression scatterplots - now the line regression is defined before use, and the titles and layout are all improved.
 #
 
